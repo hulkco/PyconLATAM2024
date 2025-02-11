@@ -6,8 +6,8 @@ import network, usocket, ustruct, utime
 from time import sleep
 
 # AP info
-SSID='INFINITUM723C' # Network SSID
-KEY='vK4xNVPxPX'  # Network key
+SSID='XXXXXXXX' # Network SSID
+KEY='XXXXXXXXXX'  # Network key
 
 import network, usocket, ustruct, utime
 

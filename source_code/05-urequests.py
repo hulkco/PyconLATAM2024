@@ -5,8 +5,8 @@ from time import sleep
 # Request a random cat fact from the Meowfacts API
 url = "https://meowfacts.herokuapp.com/"
 
-WIFI_NETWORK='INFINITUM723C'
-WIFI_PASSWORD='vK4xNVPxPX'
+WIFI_NETWORK='XXXXXXXXXXXXXXXX'
+WIFI_PASSWORD='XXXXXXXXXXXXXXXXX'
  
 print("\n This programa make a random request to the Meow Facts API")
 wlan = network.WLAN(network.STA_IF)

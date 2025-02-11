@@ -1,15 +1,15 @@
 """
 Conectar a una red WiFi y hacer una petición
-SSID='INFINITUM723C' # Network SSID
-KEY='vK4xNVPxPX'  # Network key
+SSID='XXXXXXX' # Network SSID
+KEY='XXXXXXXX'  # Network key
 """
 
 import network, socket
 from time import sleep
 
 # AP info
-SSID='INFINITUM723C' # Network SSID
-KEY='vK4xNVPxPX'  # Network key
+SSID='XXXXXXXX' # Network SSID
+KEY='XXXXXXXXXX'  # Network key
 
 PORT = 80
 HOST = "www.google.com"
